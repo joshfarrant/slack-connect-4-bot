@@ -46,5 +46,17 @@ module.exports = {
         face: {
             neutral: ':ghost:'
         }
+    },
+    valentines: {
+        circle: {
+            red: ':heart:',
+            blue: ':purple_heart:',
+            white: ':yellow_heart:'
+        },
+        celebrate: ':heart_eyes:',
+        fire: ':kiss:',
+        face: {
+            neutral: ':revolving_hearts:'
+        }
     }
 };
