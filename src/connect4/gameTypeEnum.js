@@ -1,5 +1,6 @@
 module.exports = {
     NORMAL: 'normal',
     HALLOWEEN: 'halloween',
-    CHRISTMAS: 'christmas'
+    CHRISTMAS: 'christmas',
+    VALENTINES: 'valentines'
 };

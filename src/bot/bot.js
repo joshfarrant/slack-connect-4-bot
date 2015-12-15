@@ -35,6 +35,8 @@ class Bot {
                     this.gameType = GameTypeEnum.HALLOWEEN;
                 } else if (MsgHelper.containsWord(e.text, 'xmas')) {
                     this.gameType = GameTypeEnum.CHRISTMAS;
+                } else if (MsgHelper.containsWord(e.text, 'kiss')) {
+                    this.gameType = GameTypeEnum.VALENTINES;
                 } else {
                     this.gameType = GameTypeEnum.NORMAL;
                 }
