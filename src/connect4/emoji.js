@@ -58,5 +58,17 @@ module.exports = {
         face: {
             neutral: ':revolving_hearts:'
         }
+    },
+    animals: {
+        circle: {
+            red: ':dog:',
+            blue: ':cat:',
+            white: ':white_circle:'
+        },
+        celebrate: ':boom:',
+        fire: ':fire:',
+        face: {
+            neutral: ':mouse:'
+        }
     }
 };
