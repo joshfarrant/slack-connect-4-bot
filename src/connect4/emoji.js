@@ -118,5 +118,17 @@ module.exports = {
        face: {
            neutral: ':neutral_face:'
        }
+   },
+   rude: {
+       circle: {
+           red: ':troll:',
+           blue: ':fu:',
+           white: ':white_check_mark:'
+       },
+       celebrate: ':neckbeard:',
+       fire: ':feelsgood:',
+       face: {
+           neutral: ':suspect:'
+       }
    }
 }

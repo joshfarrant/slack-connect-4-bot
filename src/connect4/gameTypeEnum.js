@@ -7,5 +7,6 @@ module.exports = {
     SUMMER: 'summer',
     SPRING: 'spring',
     CITY: 'city',
-    SMILE: 'smile'
+    SMILE: 'smile',
+    RUDE: 'rude'
 };
