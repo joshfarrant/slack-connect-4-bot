@@ -106,5 +106,17 @@ module.exports = {
         face: {
             neutral: ':construction:'
         }
-    }
+    },
+    smile: {
+       circle: {
+           red: ':simple_smile:',
+           blue: ':upside_down_face:',
+           white: ':no_mouth:'
+       },
+       celebrate: ':stuck_out_tongue_winking_eye:',
+       fire: ':japanese_goblin:',
+       face: {
+           neutral: ':neutral_face:'
+       }
+   }
 }
