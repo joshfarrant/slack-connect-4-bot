@@ -4,5 +4,6 @@ module.exports = {
     CHRISTMAS: 'christmas',
     VALENTINES: 'valentines',
     ANIMALS: 'animals',
-    SUMMER: 'summer'
+    SUMMER: 'summer',
+    SPRING: 'spring'
 };

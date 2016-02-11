@@ -82,5 +82,17 @@ module.exports = {
         face: {
             neutral: ':last_quarter_moon:'
         }
+    },
+    spring: { 
+        circle: {
+            red: ':rose:',
+            blue: ':sunflower:',
+            white: ':leaves:'
+        },
+        celebrate: ':bee:',
+        fire: ':beetle:',
+        face: {
+            neutral: ':snake:'
+        }
     }
 }
