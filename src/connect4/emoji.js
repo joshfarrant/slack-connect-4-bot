@@ -70,5 +70,17 @@ module.exports = {
         face: {
             neutral: ':mouse:'
         }
+    },
+    summer: {
+        circle: {
+            red: ':sun_with_face:',
+            blue: ':new_moon_with_face:',
+            white: ':cloud:'
+        },
+        celebrate: ':snake:',
+        fire: ':dark_sunglasses:',
+        face: {
+            neutral: ':last_quarter_moon:'
+        }
     }
-};
+}
