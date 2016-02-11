@@ -94,5 +94,17 @@ module.exports = {
         face: {
             neutral: ':snake:'
         }
+    },
+    city: {
+        circle: {
+            red: ':red_car:',
+            blue: ':blue_car:',
+            white: ':office:'
+        },
+        celebrate: ':checkered_flag:',
+        fire: ':derelict_house_building:',
+        face: {
+            neutral: ':construction:'
+        }
     }
 }

@@ -43,6 +43,8 @@ class Bot {
                     this.gameType = GameTypeEnum.SUMMER;
                 } else if (MsgHelper.containsWord(e.text, 'spring')) {
                     this.gameType = GameTypeEnum.SPRING;
+                } else if (MsgHelper.containsWord(e.text, 'city')) {
+                    this.gameType = GameTypeEnum.CITY;
                 } else {
                     this.gameType = GameTypeEnum.NORMAL;
                 }
