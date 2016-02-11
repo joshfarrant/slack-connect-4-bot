@@ -45,6 +45,9 @@ class Bot {
                     this.gameType = GameTypeEnum.SPRING;
                 } else if (MsgHelper.containsWord(e.text, 'city')) {
                     this.gameType = GameTypeEnum.CITY;
+                } else if (MsgHelper.containsWord(e.text, 'random')) {
+                    let gameTypes = Object.keys(GameTypeEnum);
+                    this.gameType = gameTypes[Math.floor(Math.random() * gameTypes.length)];
                 } else {
                     this.gameType = GameTypeEnum.NORMAL;
                 }
